@@ -1,40 +1,21 @@
-# Willkommen auf meinem GitHub-Profil 👋
+# Willkommen auf meinem GitHub-Profil
 
-Ich bin Buffer The Hutt, ein IT-Enthusiast mit einer Leidenschaft für digitaler Sicherheit. Hier findest du eine Auswahl meiner Projekte und Beiträge. 
+Hallo und herzlich willkommen!  
+Ich bin IT-Forensiker, nutze hauptsächlich Fedora Linux und entwickle mit Leidenschaft Tools in Python, Bash und PowerShell, um die alltäglichen Herausforderungen zu meistern.
 
-## Über mich �
+## Über mich
 
-- 🔭 **Aktuell:** [Aktuelles Projekt/Thema, z.B. "Entwicklung von Webanwendungen mit React"]
-- 🌱 **Lerne gerade:** [Aktuell lernende Technologien/Fähigkeiten]
-- 💡 **Interessen:** [Themengebiete, z.B. "KI, Clean Code, UX-Optimierung"]
-- 📚 **Expertise:** [Kernkompetenzen, z.B. "Python, Cloud-Architekturen, DevOps"]
-- ✨ **Ziel:** [Kurzes Statement, z.B. "Robuste Lösungen schaffen, die Nutzern echten Mehrwert bieten"]
+- **Beruf:** Digital Forensics Analyst  
+- **Betriebssystem:** Fedora-Workstation  
+- **Programmiersprachen:** Python, Bash und PowerShell  
+- **Interessen:** Entwicklung von Tools zur alltäglichen Aufgabenbewältigung
 
-## Ausgewählte Repositories 📂
+## Meine Repositories
 
-### [Scripting](https://github.com/BufferTheHutt/Scripting) 
-Kurze Projektbeschreibung (z.B. "Modulare E-Commerce-Plattform mit Microservices-Architektur")
+Hier findest du eine Auswahl meiner Projekte:
 
-### [Projektname 2](Link-zum-Repo)  
-Kurze Projektbeschreibung (z.B. "Open-Source-Tool zur Datenvisualisierung")
+- [Scripting](https://github.com/BufferTheHutt/Scripting) – Eine Sammlung nützlicher Skripte in Python, Bash und PowerShell zur Automatisierung von Aufgaben und zur Optimierung von Workflows.  
+- [Linux](https://github.com/BufferTheHutt/Linux) – Projekte und Tools rund um Linux, speziell optimiert für Fedora und Debian Linux, um Systemperformance und -sicherheit zu verbessern.  
+- [IT-Security](https://github.com/BufferTheHutt/IT-Security) – Werkzeuge und Scripts zur IT-Sicherheit, die in der digitalen Forensik und zur Absicherung von Systemen zum Einsatz kommen.
 
-### [Projektname 3](Link-zum-Repo)  
-Kurze Projektbeschreibung (z.B. "KI-gestützte Analyse von Zeitreihendaten")
-
-**[➡️ Alle Repositories anzeigen](Link-zur-Repo-Übersicht)**
-
----
-
-## Kontakt 📬
-
-<a href="[Dein GitHub-Profil-Link]">
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="[LinkedIn-Profil-Link]">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:[Deine E-Mail-Adresse]">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="E-Mail">
-</a>
-
-*Letztes Update: [Datum im Format DD.MM.YYYY]*  
+Danke für deinen Besuch und viel Spaß beim Stöbern!
