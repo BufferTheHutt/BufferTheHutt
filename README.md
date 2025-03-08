@@ -1,23 +1,28 @@
-# Willkommen auf meinem GitHub-Profil
+# Welcome to My GitHub Profile
 
-Hallo und herzlich willkommen!  
-Ich bin IT-Forensiker, nutze hauptsächlich Fedora Linux und entwickle mit Leidenschaft Tools in Python, Bash und PowerShell, um die alltäglichen Herausforderungen zu meistern.
+Welcome. You are hereby granted access to this profile. I serve as a Digital Forensics Analyst, operating primarily on Fedora-Workstation. Utilizing tools developed in Python, Bash, and PowerShell, I address daily operational challenges with precision and expertise.
 
-## Über mich
+## About Me
 
-- **Beruf:** Digital Forensics Analyst  
-- **Betriebssystem:** Fedora-Workstation  
-- **Programmiersprachen:** Python, Bash und PowerShell  
-- **Interessen:** Entwicklung von Tools zur alltäglichen Aufgabenbewältigung
+- **Position:** Digital Forensics Analyst  
+- **Operating System:** Fedora-Workstation  
+- **Programming Languages:** Python, Bash, and PowerShell  
+- **Interests:** Developing advanced tools for resolving routine challenges in digital investigations
 
-## Meine Repositories
+## My Repositories
 
-Hier findest du eine Auswahl meiner Projekte:
+Below is a selection of projects that reflect my commitment to operational excellence:
 
-### - [Scripting](https://github.com/BufferTheHutt/Scripting) – Eine Sammlung nützlicher Skripte in Python, Bash und PowerShell zur Automatisierung von Aufgaben und zur Optimierung von Workflows.  
+### - [Scripting](https://github.com/BufferTheHutt/Scripting)
 
-### - [Linux](https://github.com/BufferTheHutt/Linux) – Projekte und Tools rund um Linux, speziell optimiert für Fedora und Debian Linux, um Systemperformance und -sicherheit zu verbessern.  
+A curated collection of scripts in Python, Bash, and PowerShell, engineered to automate tasks and optimize workflow efficiency.
 
-### - [IT-Security](https://github.com/BufferTheHutt/IT-Security) – Werkzeuge und Scripts zur IT-Sicherheit, die in der digitalen Forensik und zur Absicherung von Systemen zum Einsatz kommen.
+### - [Linux](https://github.com/BufferTheHutt/Linux)
 
-Danke für deinen Besuch und viel Spaß beim Stöbern!
+Projects and tools dedicated to Linux, specifically optimized for Fedora and Debian systems, aimed at enhancing system performance and security.
+
+### - [IT-Security](https://github.com/BufferTheHutt/IT-Security)
+
+A suite of instruments and scripts designed for IT security operations, integral to digital forensics and system protection protocols.
+
+Thank you for your visit. Proceed with due diligence.
