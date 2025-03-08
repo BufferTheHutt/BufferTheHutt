@@ -14,8 +14,8 @@ Ich bin IT-Forensiker, nutze hauptsächlich Fedora Linux und entwickle mit Leide
 
 Hier findest du eine Auswahl meiner Projekte:
 
-- [Scripting](https://github.com/BufferTheHutt/Scripting) – Eine Sammlung nützlicher Skripte in Python, Bash und PowerShell zur Automatisierung von Aufgaben und zur Optimierung von Workflows.  
-- [Linux](https://github.com/BufferTheHutt/Linux) – Projekte und Tools rund um Linux, speziell optimiert für Fedora und Debian Linux, um Systemperformance und -sicherheit zu verbessern.  
-- [IT-Security](https://github.com/BufferTheHutt/IT-Security) – Werkzeuge und Scripts zur IT-Sicherheit, die in der digitalen Forensik und zur Absicherung von Systemen zum Einsatz kommen.
+### - [Scripting](https://github.com/BufferTheHutt/Scripting) – Eine Sammlung nützlicher Skripte in Python, Bash und PowerShell zur Automatisierung von Aufgaben und zur Optimierung von Workflows.  
+### - [Linux](https://github.com/BufferTheHutt/Linux) – Projekte und Tools rund um Linux, speziell optimiert für Fedora und Debian Linux, um Systemperformance und -sicherheit zu verbessern.  
+### - [IT-Security](https://github.com/BufferTheHutt/IT-Security) – Werkzeuge und Scripts zur IT-Sicherheit, die in der digitalen Forensik und zur Absicherung von Systemen zum Einsatz kommen.
 
 Danke für deinen Besuch und viel Spaß beim Stöbern!
